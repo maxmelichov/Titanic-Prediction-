@@ -32,3 +32,8 @@ F1 on CV data:0.9765886287625417
 I used AdaBoostClassifier for this problem with the use of GridSearchCV
 
 I filled the nulls with KnnImputer
+
+
+**File number 3 is the Final version very clear tried new technics to fill the missing data and used GradientBoostingClassifier for better results!**
+
+
